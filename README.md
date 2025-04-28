@@ -19,6 +19,7 @@
      |
      |
       ---- Weapon  
+
 ----Manager
   |
   |
@@ -42,6 +43,7 @@
     |
     |
     ---- Interface
+
 ---- Script
   |
   |
@@ -58,4 +60,4 @@
      |
      |
       ---- StartScenes
-----
+
